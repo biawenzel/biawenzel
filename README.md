@@ -3,9 +3,13 @@
 
 - 🌱 I’m currently learning: **Java**
 
-- ⚡ Fun fact: **I'm vegan and I loooove cats!**
-
 - :earth_americas: I live in: **Brazil** 
+
+- :lips: Languages I speak fluently: **Portuguese and English** 
+
+- :pencil2: Languages I'm still learning: **German and Spanish**
+
+- ⚡ Fun fact: **I'm vegan and I loooove cats!**
 
 <div>
 <a href="https://github.com/biawenzel">
