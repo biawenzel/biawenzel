@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Beatriz (just call me Bia)</h1>
 <h3 align="center">A girl who decided to learn programming, by herself, in 2022 :metal:</h3>
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **Java and Python**
 
 - :earth_americas: I live in: **Brazil** 
 
@@ -9,7 +9,7 @@
 
 - :pencil2: Languages I'm still learning: **German and Spanish**
 
-- ⚡ Fun fact: **I'm vegan and I loooove cats!**
+- ⚡ Fun fact: **I have a degree in Civil Engineering, but I'm studying Systems Analysis and Development at the moment**
 
 <div>
 <a href="https://github.com/biawenzel">
