@@ -1,13 +1,13 @@
-<h1 align="center">Welcome, I'm Beatriz (just call me Bia)</h1>
+<h1 align="center">Welcome, I'm Bia!</h1>
 <h3 align="center">A girl who decided to learn programming, by herself, in 2022 :metal:</h3>
 
-- 🌱 I’m currently learning: **Java and Python**
+- 👩🏻‍💻 I work as a **Junior Data Analyst**
+  
+- 🌱 I’m currently learning: **Python**
 
 - :earth_americas: I live in: **Brazil** 
 
-- :lips: Languages I speak fluently: **Portuguese and English** 
-
-- :pencil2: Languages I'm still learning: **German and Spanish**
+- :lips: Languages I speak: **Portuguese and English** (and I'm studying **German**)
 
 - ⚡ Fun fact: **I have a degree in Civil Engineering, but I'm studying Systems Analysis and Development at the moment**
 
