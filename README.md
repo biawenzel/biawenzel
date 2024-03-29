@@ -3,11 +3,11 @@
 
 - 👩🏻‍💻 I work as a **Junior Data Analyst**
   
-- 🌱 I’m currently learning: **Python**
+- 🌱 I’m currently learning: **Python** and **SQL**
 
 - :earth_americas: I live in: **Brazil** 
 
-- :lips: Languages I speak: **Portuguese and English** (and I'm studying **German**)
+- :lips: Languages I speak: **Portuguese** and **English** (and I'm studying **German**)
 
 - ⚡ Fun fact: **I have a degree in Civil Engineering, but I'm studying Systems Analysis and Development at the moment**
 
