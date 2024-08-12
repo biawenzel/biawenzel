@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Bia!</h1>
 <h3 align="center">A girl who decided to learn programming, by herself, in 2022 :metal:</h3>
 
-- 👩🏻‍💻 I work as a **Junior Data Analyst**
+- 👩🏻‍💻 I work as a **Data Engineering intern**
   
 - 🌱 I’m currently learning: **Python** and **SQL**
 
