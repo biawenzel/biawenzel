@@ -18,4 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,java,linux,windows,postgres,py)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,java,linux,windows,postgres,py&theme=light" />
+</a>
+
+
