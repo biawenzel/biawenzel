@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Bia!</h1>
 <h3 align="center">A girl who decided to learn programming, by herself, in 2022 :metal:</h3>
 
-- 👩🏻‍💻 I'm a **Data Engineer**  
-- :earth_americas: Living in **Brazil** 
-- :lips: I speak **Portuguese** and **English** (and I'm studying **German**)
+- 👩🏻‍💻 **Data Engineer**  
+- :earth_americas: **Brazilian**
+- :lips: **Portuguese** and **English** 
 
 <div>
 <a href="https://github.com/biawenzel">
